@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name =         'wiremafia',
+    name =         'wire-mafia',
     version =      '0.0.1',
     description =  'Block select applications from the wifi. Like the mafia.',
     url =          'https://github.com/kepoorhampond/blockade',
